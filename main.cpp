@@ -9,4 +9,5 @@ int main(){
 
     cout<< "Adrian Valdez" << endl;
     
+    cout <<"Luis De La Cruz" << endl;
 }
